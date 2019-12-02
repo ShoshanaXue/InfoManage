@@ -1,0 +1,42 @@
+09:08:10.128 [restartedMain] INFO  c.h.w.WebApplication - [logStarting,55] - Starting WebApplication on LAPTOP-TJGG227B with PID 3080 (G:\infomanage\PowerManage1\man-web\target\classes started by 薛莎莎 in G:\infomanage\PowerManage1)
+09:08:10.138 [restartedMain] INFO  c.h.w.WebApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+09:08:12.497 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:08:12.499 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:08:12.499 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+09:08:12.504 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - An older version [1.2.16] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+09:08:12.505 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+09:08:12.506 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+09:08:12.507 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09:08:13.697 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+09:08:13.849 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:08:14.253 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+09:08:14.278 [restartedMain] INFO  c.h.w.WebApplication - [logStarted,61] - Started WebApplication in 5.209 seconds (JVM running for 9.703)
+09:08:43.187 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:13:45.875 [restartedMain] INFO  c.h.w.WebApplication - [logStarting,55] - Starting WebApplication on LAPTOP-TJGG227B with PID 9256 (G:\infomanage\PowerManage1\man-web\target\classes started by 薛莎莎 in G:\infomanage\PowerManage1)
+09:13:45.891 [restartedMain] INFO  c.h.w.WebApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+09:13:47.240 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:13:47.240 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:13:47.241 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+09:13:47.243 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - An older version [1.2.16] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+09:13:47.243 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+09:13:47.243 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+09:13:47.244 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09:13:48.311 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+09:13:48.470 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:13:48.962 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+09:13:48.989 [restartedMain] INFO  c.h.w.WebApplication - [logStarted,61] - Started WebApplication in 4.183 seconds (JVM running for 6.021)
+09:14:39.663 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:15:39.951 [restartedMain] INFO  c.h.w.WebApplication - [logStarting,55] - Starting WebApplication on LAPTOP-TJGG227B with PID 8556 (G:\infomanage\PowerManage1\man-web\target\classes started by 薛莎莎 in G:\infomanage\PowerManage1)
+09:15:39.956 [restartedMain] INFO  c.h.w.WebApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+09:15:41.788 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-1080"]
+09:15:41.814 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:15:41.819 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.27]
+09:15:41.856 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - An older version [1.2.16] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+09:15:41.858 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+09:15:41.859 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+09:15:41.861 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09:15:43.594 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+09:15:43.761 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:15:44.466 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-1080"]
+09:15:44.498 [restartedMain] INFO  c.h.w.WebApplication - [logStarted,61] - Started WebApplication in 5.263 seconds (JVM running for 7.197)
+09:16:04.334 [http-nio-1080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'

@@ -1,0 +1,6 @@
+15:58:32.038 [restartedMain] INFO  c.h.w.WebApplication - [logStarting,55] - Starting WebApplication on LAPTOP-TJGG227B with PID 16640 (G:\infomanage\PowerManage1\man-web\target\classes started by 薛莎莎 in G:\infomanage\PowerManage1)
+15:58:32.051 [restartedMain] INFO  c.h.w.WebApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+15:58:33.083 [restartedMain] INFO  c.h.w.WebApplication - [logStarted,61] - Started WebApplication in 2.23 seconds (JVM running for 4.336)
+15:59:25.394 [restartedMain] INFO  c.h.w.WebApplication - [logStarting,55] - Starting WebApplication on LAPTOP-TJGG227B with PID 1756 (G:\infomanage\PowerManage1\man-web\target\classes started by 薛莎莎 in G:\infomanage\PowerManage1)
+15:59:25.428 [restartedMain] INFO  c.h.w.WebApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+15:59:26.408 [restartedMain] INFO  c.h.w.WebApplication - [logStarted,61] - Started WebApplication in 1.748 seconds (JVM running for 3.553)
